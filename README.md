@@ -73,12 +73,12 @@
 ### **🛠️ Troubleshooting & 기술 회고:**
   1. **문제 1:** 출력 중 오류가 있어 결과 화면이 출력되지 않음. 
      * **해결:** height 앞에 & 생략을 확인 후, 코드를 수정하여 해결함.
-     **문제 2:** 터미널에 알 수 없는 종료 코드가 출력되며 프로그램이 정상적으로 실행되지 않음.
+  2. **문제 2:** 터미널에 알 수 없는 종료 코드가 출력되며 프로그램이 정상적으로 실행되지 않음.
      * **해결:** return 0;을 누락한 것을 확인하고 추가하여 프로그램을 실행함.
 ### **📁 증빙 자료:**
   * [2차_AI협업캡처.pdf 첨부 완료] (첨부 후 링크)
-  * <img width="944" height="448" alt="스크린샷 2026-05-03 224841" src="https://github.com/user-attachments/assets/d61e65ca-d226-4bf6-934e-ccda7124ec79" />
   * <img width="1090" height="560" alt="스크린샷 2026-05-03 224715" src="https://github.com/user-attachments/assets/27750f43-de74-4d15-9844-a91202f06b0c" />
+  * <img width="944" height="448" alt="스크린샷 2026-05-03 224841" src="https://github.com/user-attachments/assets/d61e65ca-d226-4bf6-934e-ccda7124ec79" />
 
   * [2차과제_실행결과.jpg]
   * <img width="731" height="467" alt="출력 내용2 2026-05-03 221941" src="https://github.com/user-attachments/assets/96eb7c96-b2a5-49a7-9cd8-4ebc6e956b4b" />
