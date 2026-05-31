@@ -108,8 +108,8 @@
     <img width="1132" height="665" alt="Ai 협업3" src="https://github.com/user-attachments/assets/060a341a-72e4-466e-b443-7bcde709efc3" />
     <img width="968" height="603" alt="Ai 3-2" src="https://github.com/user-attachments/assets/0d7b0c12-b867-441d-b0e6-abf5dae1a009" />
   * [3차과제_실행결과.jpg]
-    <img width="782" height="707" alt="출력 2" src="https://github.com/user-attachments/assets/8a09eb97-c587-4fda-a937-a8e5ead5973d" />
     <img width="596" height="547" alt="출력 1" src="https://github.com/user-attachments/assets/47af275f-21f0-4430-b286-332e4b9f2a81" />
+    <img width="782" height="707" alt="출력 2" src="https://github.com/user-attachments/assets/8a09eb97-c587-4fda-a937-a8e5ead5973d" />
 <br>
 
 ### 🟥 [4차 과제: V4.0] 모듈화 및 데이터 확장 (배열과 함수) - 🌟최종 완성 -- 향후 작성 예정
