@@ -110,7 +110,7 @@ void print_report_with_pointer(float arr[]) {
   printf("        [ 건강 분석 결과 리포트 ]        \n");
   printf("========================================\n");
 
-  printf("[시스템 로그] arr[i] 방식으로 원본 배열 데이터 순회 조회:\n");
+  printf("시스템 원본 데이터 배열 순회 조회 결과\n");
   for(int i = 0; i<5; i++)  {
      switch(i) {
         case 0: printf("  ▶ 등록된 신장(키)    : %.1f cm\n", arr[i]); break;
