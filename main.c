@@ -112,8 +112,14 @@ void print_report_with_pointer(float arr[]) {
 
   printf("[시스템 로그] arr[i] 방식으로 원본 배열 데이터 순회 조회:\n");
   for(int i = 0; i<5; i++)  {
-    printf(" arr[%d]의 값 : %.2f\n", i, arr[i]);
-  }
+     switch(i) {
+        case 0: printf("  ▶ 등록된 신장(키)    : %.1f cm\n", arr[i]); break;
+        case 1: printf("  ▶ 등록된 체중(몸무게): %.1f kg\n", arr[i]); break;
+        case 2: printf("  ▶ 일일 평균 운동 시간: %.1f 시간\n", arr[i]); break;
+        case 3: printf("  ▶ 체질량지수 (BMI)   : %.2f\n", arr[i]); break;
+        case 4: printf("  ▶ 총 에너지 소비(TDEE): %.2f kcal\n", arr[i]); break;
+     }
+  }   
   printf("----------------------------------------\n");
   printf("[입력 정보] 성별: %c | 키: %.1fcm | 몸무게: %.1fkg\n", g_gender, *(arr + 0), *(arr + 1));
   printf("[활동 데이터] 하루 %.1f시간 운동 실천 중\n", *(arr + 2));
