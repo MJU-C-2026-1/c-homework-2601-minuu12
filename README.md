@@ -133,7 +133,6 @@
   * <img width="1056" height="642" alt="image" src="https://github.com/user-attachments/assets/27242e52-cdd8-4b00-8f4e-8a130f338bf3" />
 
   * [4차과제_실행결과.jpg]
-  * <img width="790" height="707" alt="스크린샷 2026-06-16 200600" src="https://github.com/user-attachments/assets/c5795f46-21e3-4e86-8e26-0f03867315a6" />
-  * <img width="810" height="722" alt="스크린샷 2026-06-16 200509" src="https://github.com/user-attachments/assets/cac71656-083e-4cc9-8b78-f664e0c1ccf2" />
-
+ * <img width="810" height="722" alt="스크린샷 2026-06-16 200509" src="https://github.com/user-attachments/assets/cac71656-083e-4cc9-8b78-f664e0c1ccf2" />
+ * <img width="790" height="707" alt="스크린샷 2026-06-16 200600" src="https://github.com/user-attachments/assets/c5795f46-21e3-4e86-8e26-0f03867315a6" />
 <br>
