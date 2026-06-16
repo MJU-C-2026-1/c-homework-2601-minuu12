@@ -155,6 +155,6 @@ void print_report_with_pointer(float arr[]) {
   printf("▶ 현재 체중 유지 목적: 하루 %.0f kcal 섭취\n", current_tdee);
   printf("▶ 건강한 다이어트 목적: 하루 %.0f kcal 섭취(-500kcal 제한)\n", current_tdee - 500.0);
   printf("▶ 벌크업 및 체중 증량: 하루 %.0f kcal 섭취(+300kcal 추가)\n", current_tdee + 300.0);
-  printf("========================================\n")
+  printf("========================================\n");
 }
 
